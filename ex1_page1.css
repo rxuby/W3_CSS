@@ -30,9 +30,6 @@ body {
   margin: 0;
   padding: 0;
   height: 230px;
-  display: block;
-  background: rgb(0, 212, 255);
-  background: rgb(0, 212, 255);
   background: linear-gradient(
     90deg,
     rgba(0, 212, 255, 1) 0%,
@@ -161,7 +158,6 @@ body {
 
 .box-detail1 img {
   margin: 10px;
-  /* padding: 10px; */
 }
 
 .box-detail1 div,
@@ -180,7 +176,7 @@ p {
   color: red;
   text-align: right;
   float: right;
-  margin-left: 50px;
+  margin-left: 55px;
 }
 
 .box-detail2 {
